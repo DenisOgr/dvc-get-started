@@ -1,0 +1,2 @@
+['remote "gcp-storage"']
+    url = gs://test-dvc-denis
